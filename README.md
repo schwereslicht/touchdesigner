@@ -3,3 +3,5 @@ input .jpg/.png to animated visual
 Touchdesigner 25.30770
 SchweresLicht
 SchwacheSicht
+
+info via instagram.com/schwereslicht
