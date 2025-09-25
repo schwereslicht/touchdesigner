@@ -1,0 +1,5 @@
+collection of touchdesigner patches aimed for stagemapping and visuals
+input .jpg/.png to animated visual
+Touchdesigner 25.30770
+SchweresLicht
+SchwacheSicht
