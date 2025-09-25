@@ -5,3 +5,5 @@ SchweresLicht
 SchwacheSicht
 
 info via instagram.com/schwereslicht
+  facebook.com/schwereslicht/
+  facebook.com/lumasophistsvisuals/
